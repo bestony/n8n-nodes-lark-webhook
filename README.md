@@ -11,7 +11,6 @@ This is an n8n community node. It lets you use Lark Custom Bot in your n8n workf
 [Credentials](#credentials) 
 [Usage](#usage) 
 [Resources](#resources)  
-[Version history](#version-history)  <!-- delete if not using this section -->  
 
 ## Installation
 
