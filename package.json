@@ -8,6 +8,9 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/bestony/n8n-nodes-lark-webhook",
+  "bugs": {
+    "url": "https://github.com/bestony/n8n-nodes-lark-webhook/issues"
+  },
   "author": {
     "name": "Bestony",
     "email": "bestony@linux.com"
